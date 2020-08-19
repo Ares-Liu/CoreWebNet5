@@ -8,31 +8,29 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vsdiagtester\\.nuget\\packages\\": {}
+    "C:\\Users\\vsonline\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vsdiagtester\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\workspace\\CoreWebNet5\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\vsdiagtester\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\vsdiagtester\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vsdiagtester\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "projectPath": "C:\\workspace\\CoreWebNet5\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\vsonline\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\CoreWebNet5\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vsdiagtester\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\vsonline\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://devdiv.pkgs.visualstudio.com/_packaging/Microsoft.VisualStudio.ProductionDiagnostics/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -44,6 +42,7 @@
     },
     "frameworks": {
       "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20412.11\\RuntimeIdentifierGraph.json"
       }
     }
   }

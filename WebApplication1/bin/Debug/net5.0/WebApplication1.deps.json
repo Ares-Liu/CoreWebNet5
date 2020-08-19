@@ -1,6 +1,6 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v5.0",
+    "name": "net5.0",
     "signature": ""
   },
   "compilationOptions": {
@@ -9,8 +9,6 @@
       "DEBUG",
       "NET",
       "NET5_0",
-      "WINDOWS",
-      "WINDOWS7_0",
       "NETCOREAPP",
       "NETCOREAPP3_1"
     ],
@@ -25,7 +23,7 @@
     "debugType": "portable"
   },
   "targets": {
-    ".NETCoreApp,Version=v5.0": {
+    "net5.0": {
       "WebApplication1/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",

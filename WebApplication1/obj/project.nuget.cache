@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YkA8Ek24p86/IOqEHGVimT/SBAGCEJq+qb+wjSgEixdQQdSKv4tm45y4FibNs5TGpLFgmgzLbZbDKNCQyE8/Qw==",
+  "dgSpecHash": "7HvcQfAVvxVk1Ax9ms4lLoOhHAX0Xyz9AIYrgEj9Xz84MmdJn6HMiT8HAZ9vb6fTOydjHjglzPztgJsgRGYeGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vsdiagtester\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\workspace\\CoreWebNet5\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
